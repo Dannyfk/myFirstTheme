@@ -19,9 +19,9 @@ get_header();
       <p>Ut enim ad..</p>
     </div>
     <div class="col-sm-4">
-        <h3>Column 2</h3>
-      <p>Lorem ipsum dolor..</p>
-      <p>Ut enim ad..</p>
+        <!-- loop start -->
+				<?php get_template_part( "loop" ); ?>
+			<!-- loop end -->
     </div>
     <div class="col-sm-4">
 			<h3>Column 3</h3>
