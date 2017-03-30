@@ -14,9 +14,19 @@ Use it to make something cool, have fun, and share what you've learned with othe
 */
 
 /* add your styles below */
+
+body {
+background-color:aquamarine;
+}
+
+p {
+    color:red;
+}
+
 .logo {
-	color: aquamarine;
-	font-kerning: normal;
-	font-family: Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black," sans-serif";
+color: aquamarine;
+font-kerning: normal;
+font-family: Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black," sans-serif";
 	font-size: 60px;
+    
 }
