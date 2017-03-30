@@ -1,4 +1,5 @@
- <footer id="myFooter">
+<hr>
+<footer id="myFooter">
         <div class="container">
             <div class="row">
                 <div class="col-sm-3">
@@ -42,3 +43,7 @@
             <p>© 2017 DannyJoaSus </p>
         </div>
     </footer>
+
+	<?php wp_footer(); // load WP-related footer scripts ?>
+</body>
+</html>
