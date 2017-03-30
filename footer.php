@@ -1,6 +1,6 @@
-<hr>
 <footer id="myFooter">
         <div class="container">
+            <hr>
             <div class="row">
                 <div class="col-sm-3">
                     <h2 class="logo"><a href="#"> LOGO </a></h2>
